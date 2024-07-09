@@ -81,7 +81,7 @@ institution
 
 # Observability as Code したい
 
-UIでポチポチやると再利用性や一貫性がない……
+UIでポチポチ構築すると再利用性や一貫性がない……
 バージョン管理もできないのでチームでの運用がしにくい……
 
 {::wait/}{::tag name="large"}Terraform で OaC を実践しよう！{:/tag}
@@ -107,3 +107,12 @@ UIでポチポチやると再利用性や一貫性がない……
 - 気になる機能はどんどん共有してください
 - ユーザーグループもあります
   - https://nrug.connpass.com/
+
+# リンク
+
+- CodeStream
+  - https://docs.newrelic.com/docs/codestream/start-here/what-is-codestream/
+- Synthetic Monitoring
+  - https://docs.newrelic.com/docs/synthetics/synthetic-monitoring/getting-started/get-started-synthetic-monitoring/
+- Terraform NR provider
+  - https://docs.newrelic.com/docs/infrastructure-as-code/terraform/terraform-intro/
