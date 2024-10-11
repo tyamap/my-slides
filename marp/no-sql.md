@@ -2,7 +2,7 @@
 marp: true
 ---
 
-# とりあえず知っておきべきNoSQL
+# とりあえず知っておきたいNoSQL
 ## yamashita
 
 ---
